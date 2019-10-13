@@ -27,7 +27,7 @@ class App extends React.Component {
 
 	handleSubmit(e) {
 		e.preventDefault();
-		const baseUrl = 'http://localhost:8000/movie';
+		const baseUrl = config.API_URL;
 
 		const params = [];
 		if (this.state.genre) {
