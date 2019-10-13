@@ -2,6 +2,9 @@
 
 Works with [moviedex-api](https://github.com/asktami/moviedex-api).
 
+![Moviedex screenshot](https://github.com/asktami/moviedex-client/blob/master/screenshot.png "Moviedex")
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
